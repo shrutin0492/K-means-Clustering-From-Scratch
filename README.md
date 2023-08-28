@@ -1,4 +1,4 @@
-# K-means Clustering from Scratch for Building a FIFA Team
+# K-means Clustering from scratch for Building a FIFA Team
 
 This GitHub repository contains the implementation of K-means clustering from scratch and a comparison with the `sklearn` library. The main goal is to create a FIFA team using player data from the "FIFA 22 Complete Player Dataset".
 
