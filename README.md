@@ -15,8 +15,8 @@ K-means clustering is an unsupervised machine learning technique used to partiti
 
 ## Google Colab Notebook
 
-The implementation, explanation, and results can be found in the [Google Colab notebook (k_means_clustering.ipynb)](https://colab.research.google.com/link-to-your-colab-notebook).
+The implementation, explanation, results and next steps can be found in the [Google Colab notebook (k_means_clustering.ipynb)](https://colab.research.google.com/link-to-your-colab-notebook).
 
 ## Dataset Download
 
-The FIFA 22 Complete Player Dataset can be downloaded from the [data folder](https://github.com/shrutin567/K-means-Clustering/data) in this repository or directly from the [Kaggle dataset page](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset).
+The FIFA 22 Complete Player Dataset can be downloaded from the [data folder](data /data) in this repository or directly from the [Kaggle dataset page](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset).
