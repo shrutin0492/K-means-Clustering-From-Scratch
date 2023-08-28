@@ -19,4 +19,4 @@ The implementation, explanation, results and next steps can be found in the [Goo
 
 ## Dataset Download
 
-The FIFA 22 Complete Player Dataset can be downloaded from the [data folder](data /data) in this repository or directly from the [Kaggle dataset page](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset).
+The FIFA 22 Complete Player Dataset can be downloaded from the [data folder](https://github.com/shrutin567/K-means-Clustering/blob/main/data%20/data) in this repository or directly from the [Kaggle dataset page](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset).
