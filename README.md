@@ -15,7 +15,7 @@ K-means clustering is an unsupervised machine learning technique used to partiti
 
 ## Google Colab Notebook
 
-The implementation, explanation, results and next steps can be found in the [Google Colab notebook (k_means_clustering.ipynb)](https://colab.research.google.com/link-to-your-colab-notebook).
+The implementation, explanation, results and next steps can be found in the [Google Colab notebook](https://github.com/shrutin567/K-means-Clustering/blob/main/k_means_clustering.ipynb).
 
 ## Dataset Download
 
